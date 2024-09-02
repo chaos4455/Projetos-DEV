@@ -26,12 +26,6 @@ Explore a minha coleção de projetos no GitHub, que abrange desde automação d
 
 ### 🏆 **Projetos Mais Relevantes**
 
-- 🔥 **[Python Dev, BE, AI, ML, LLM e DevOps](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)**
-  - Repositório principal que demonstra minhas habilidades em backend, inteligência artificial, aprendizado de máquina, e práticas DevOps.
-
-- 🚀 **[Projetos em Python, Backend, AI, LLM e ML](https://github.com/chaos4455/Projetos-DEV)**
-  - Coleção de projetos avançados em Python, incluindo IA generativa, aprendizado de máquina e APIs.
-
 - 💳 **[PixHub - Sistema de Pagamento PIX e Mercado Pago](https://github.com/chaos4455/pixhub)**
   - Plataforma inovadora de pagamento integrada com PIX e Mercado Pago.
 
