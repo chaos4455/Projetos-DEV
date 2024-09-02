@@ -18,7 +18,6 @@ Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desen
 
 ### **1. [Como criar e aprender a Construir APIs RESTful com .NET Core - Um guia de abordagem do teórico ao prático](https://www.amazon.com.br/Como-criar-aprender-Construir-RESTful-ebook/dp/B0D2KTN371)**
 
-<img src="https://m.media-amazon.com/images/I/41YSWReWaXL._SX379_BO1,204,203,200_.jpg" alt="Como criar e aprender a Construir APIs RESTful com .NET Core" width="200">
 
 🔍 **Descrição:** Aprenda a construir APIs RESTful robustas e escaláveis com .NET Core! Este eBook oferece uma abordagem prática, indo do básico ao avançado, cobrindo desde os fundamentos até a implementação de autenticação, segurança, e melhores práticas.
 
@@ -33,7 +32,6 @@ Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desen
 
 ### **2. [Como construir APIs REST com Python Flask e JWT - Um guia do básico ao avançado](https://www.amazon.com.br/Como-construir-APIs-python-flask-ebook/dp/B0D58RM994)**
 
-<img src="https://m.media-amazon.com/images/I/51znZ6yZ1sL._SX379_BO1,204,203,200_.jpg" alt="Como construir APIs REST com Python Flask e JWT" width="200">
 
 🔍 **Descrição:** Um guia completo para desenvolvedores que desejam criar APIs RESTful eficientes e seguras usando Python Flask. Este eBook abrange desde a configuração básica do Flask até a implementação de autenticação com JWT, além de abordar técnicas avançadas para otimização e segurança.
 
