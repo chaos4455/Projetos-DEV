@@ -1,4 +1,4 @@
-# 🏗️ **Projetos-DEV** - Desenvolvimento Backend, Frontend, Full Stack e IA 🐍
+# 🏗️ **Portfólio de projetos de arquitetura de sistemas e micro serviços-BE/DEV** - Desenvolvimento Backend, Frontend, Full Stack e IA 🐍
 
 Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartilhar projetos de desenvolvimento em Python, abrangendo áreas como Backend, Frontend, Full Stack, Inteligência Artificial (IA), Machine Learning (ML), Modelos de Linguagem (LLM), DevOps, e muito mais. 🚀
 
