@@ -8,46 +8,6 @@ Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartil
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-itilmgf-blue)  
 ![GitHub](https://img.shields.io/badge/GitHub-chaos4455-lightgrey)
 
----
-
-## 📚 eBooks Publicados por mim sobre apis restful com python e dot net.
-
-Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desenvolvimento de APIs com .NET Core e Python Flask. Cada livro é um guia prático e completo, perfeito para desenvolvedores de todos os níveis!
-
----
-
-### **1. [Como criar e aprender a Construir APIs RESTful com .NET Core - Um guia de abordagem do teórico ao prático](https://www.amazon.com.br/Como-criar-aprender-Construir-RESTful-ebook/dp/B0D2KTN371)**
-
-
-🔍 **Descrição:** Aprenda a construir APIs RESTful robustas e escaláveis com .NET Core! Este eBook oferece uma abordagem prática, indo do básico ao avançado, cobrindo desde os fundamentos até a implementação de autenticação, segurança, e melhores práticas.
-
-📖 **Conteúdo:**
-- Introdução aos conceitos de RESTful APIs.
-- Estrutura e desenvolvimento com .NET Core.
-- Autenticação e autorização com JWT.
-- Testes e validação de APIs.
-- Melhores práticas de desenvolvimento.
-
----
-
-### **2. [Como construir APIs REST com Python Flask e JWT - Um guia do básico ao avançado](https://www.amazon.com.br/Como-construir-APIs-python-flask-ebook/dp/B0D58RM994)**
-
-
-🔍 **Descrição:** Um guia completo para desenvolvedores que desejam criar APIs RESTful eficientes e seguras usando Python Flask. Este eBook abrange desde a configuração básica do Flask até a implementação de autenticação com JWT, além de abordar técnicas avançadas para otimização e segurança.
-
-📖 **Conteúdo:**
-- Introdução ao Flask e desenvolvimento de APIs RESTful.
-- Autenticação e autorização com JWT.
-- Integração com bancos de dados e ORMs.
-- Implementação de caching e otimização de desempenho.
-- Segurança e práticas recomendadas para APIs.
-
----
-
-🎉 **Adquira agora e comece a aprimorar suas habilidades de desenvolvimento de APIs!** 🚀
-
-🔗 [Visite a minha página de autor na Amazon](https://www.amazon.com.br/s?k=Elias+Andrade&ref=nb_sb_noss)
-
 
 ## 📋 **Sobre o Repositório**
 
@@ -126,6 +86,44 @@ Como Arquiteto de Soluções e Desenvolvedor Backend Python, busco aplicar minha
 - **/llm**: Implementações e experimentos com modelos de linguagem.
 
 ---
+
+---
+
+## 📚 eBooks Publicados por mim sobre apis restful com python e dot net.
+
+Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desenvolvimento de APIs com .NET Core e Python Flask. Cada livro é um guia prático e completo, perfeito para desenvolvedores de todos os níveis!
+
+---
+
+### **1. [Como criar e aprender a Construir APIs RESTful com .NET Core - Um guia de abordagem do teórico ao prático](https://www.amazon.com.br/Como-criar-aprender-Construir-RESTful-ebook/dp/B0D2KTN371)**
+
+
+🔍 **Descrição:** Aprenda a construir APIs RESTful robustas e escaláveis com .NET Core! Este eBook oferece uma abordagem prática, indo do básico ao avançado, cobrindo desde os fundamentos até a implementação de autenticação, segurança, e melhores práticas.
+
+📖 **Conteúdo:**
+- Introdução aos conceitos de RESTful APIs.
+- Estrutura e desenvolvimento com .NET Core.
+- Autenticação e autorização com JWT.
+- Testes e validação de APIs.
+- Melhores práticas de desenvolvimento.
+
+---
+
+### **2. [Como construir APIs REST com Python Flask e JWT - Um guia do básico ao avançado](https://www.amazon.com.br/Como-construir-APIs-python-flask-ebook/dp/B0D58RM994)**
+
+
+🔍 **Descrição:** Um guia completo para desenvolvedores que desejam criar APIs RESTful eficientes e seguras usando Python Flask. Este eBook abrange desde a configuração básica do Flask até a implementação de autenticação com JWT, além de abordar técnicas avançadas para otimização e segurança.
+
+📖 **Conteúdo:**
+- Introdução ao Flask e desenvolvimento de APIs RESTful.
+- Autenticação e autorização com JWT.
+- Integração com bancos de dados e ORMs.
+- Implementação de caching e otimização de desempenho.
+- Segurança e práticas recomendadas para APIs.
+
+---
+
+
 
 ## 🔍 **Como Começar**
 
