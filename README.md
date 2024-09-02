@@ -18,99 +18,101 @@ Este repositório contém uma coleção de projetos criados para demonstrar minh
 Como Arquiteto de Soluções e Desenvolvedor Backend Python, busco aplicar minha experiência de mais de 8 anos em desenvolvimento de sistemas, APIs, micro serviços, automação e integração de soluções para criar sistemas eficientes e escaláveis, utilizando tecnologias modernas como Python, frameworks web, IA e práticas avançadas de DevOps.
 
 
-## 🌟 **Repositórios de Projetos de Elias Andrade** 
+# 🌟 **Repositórios de Projetos de Elias Andrade**
 
-Explore a minha coleção de projetos no GitHub, que abrange desde automação de infraestrutura e inteligência artificial até ferramentas DevOps e desenvolvimento backend. Aqui estão alguns dos meus projetos mais significativos, organizados do mais recente ao mais antigo:
+Explore a minha coleção de projetos no GitHub, abrangendo automação de infraestrutura, inteligência artificial, ferramentas DevOps, desenvolvimento backend e muito mais. Abaixo, os projetos estão organizados do mais recente ao mais antigo.
 
 ---
 
 ### 🏆 **Projetos Mais Relevantes**
 
-- 💳 **[PixHub - Sistema de Pagamento PIX e Mercado Pago](https://github.com/chaos4455/pixhub)**
-  - Plataforma inovadora de pagamento integrada com PIX e Mercado Pago.
+- 🔧 **[Python Dev BE AI ML LLM DevOps](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)**  
+  Repositório principal com foco em desenvolvimento backend Python, inteligência artificial, machine learning, modelos de linguagem e práticas DevOps.
 
-- 📝 **[Gerador de Documentação com IA](https://github.com/chaos4455/doc-generator-ai)**
-  - Ferramenta automatizada para geração de documentação usando inteligência artificial.
+- 🤖 **[Projetos de Desenvolvimento em Python, Backend, AI, LLM e ML](https://github.com/chaos4455/Projetos-DEV)**  
+  Coleção abrangente de projetos Python e backend com foco em IA, aprendizado de máquina, e modelos de linguagem.
 
-- 📊 **[Gerador de Relatório em E-mail e Áudio usando LLM e TTS](https://github.com/chaos4455/Ai-Data_Agent_Analysis)**
-  - Sistema inteligente para criação de relatórios dinâmicos utilizando modelos de linguagem e síntese de voz.
+- 💳 **[PixHub - Sistema de Pagamento PIX e Mercado Pago](https://github.com/chaos4455/pixhub)**  
+  Plataforma inovadora de pagamento integrada com PIX e Mercado Pago.
 
-- 📚 **[Automação de Documentação com IA Generativa](https://github.com/chaos4455/AI-Infra-Automation-Toolbox)**
-  - Automação de processos de documentação, manuais e procedimentos utilizando IA.
+- 📝 **[Gerador de Documentação com IA](https://github.com/chaos4455/doc-generator-ai)**  
+  Ferramenta automatizada para geração de documentação usando inteligência artificial.
+
+- 📊 **[Gerador de Relatório em E-mail e Áudio usando LLM e TTS](https://github.com/chaos4455/Ai-Data_Agent_Analysis)**  
+  Sistema inteligente para criação de relatórios dinâmicos utilizando modelos de linguagem e síntese de voz.
+
+- 📚 **[Automação de Documentação com IA Generativa](https://github.com/chaos4455/AI-Infra-Automation-Toolbox)**  
+  Automação de processos de documentação, manuais e procedimentos utilizando IA.
 
 ---
 
 ### 🔧 **Ferramentas e Scripts de Automação**
 
-- 🔐 **[Gerador de Senha com Python](https://github.com/chaos4455/passgen)**
-  - Aplicação para criação de senhas seguras utilizando Python.
+- 🔐 **[Gerador de Senha com Python](https://github.com/chaos4455/passgen)**  
+  Aplicação para criação de senhas seguras utilizando Python.
 
-- 🔏 **[Encriptador de Mensagem com Criptografia Avançada](https://github.com/chaos4455/py-crypt-messages)**
-  - Ferramenta de criptografia avançada para proteção de mensagens.
+- 🔏 **[Encriptador de Mensagem com Criptografia Avançada](https://github.com/chaos4455/py-crypt-messages)**  
+  Ferramenta de criptografia avançada para proteção de mensagens.
 
-- 🗃️ **[Organizadores Pessoais para Windows](https://github.com/chaos4455/torrent-file-mover-backuper)**
-  - Automatização de manipulação de arquivos e pipelines de deploy utilizando GitHub Actions e PowerShell.
+- 🗃️ **[Organizadores Pessoais para Windows](https://github.com/chaos4455/torrent-file-mover-backuper)**  
+  Automatização de manipulação de arquivos e pipelines de deploy utilizando GitHub Actions e PowerShell.
 
-- 🧹 **[Limpador de Lixeira e Compilação de Executáveis](https://github.com/chaos4455/TrashRepairAndCleaner)**
-  - Script para limpeza automática de lixeira e compilação de executáveis.
+- 🧹 **[Limpador de Lixeira e Compilação de Executáveis](https://github.com/chaos4455/TrashRepairAndCleaner)**  
+  Script para limpeza automática de lixeira e compilação de executáveis.
 
-- 🎨 **[Front End para Stable Diffusion - Imagem para Vídeo](https://github.com/chaos4455/Img2vid-Br-Front-End)**
-  - Interface sofisticada para conversão de imagens em vídeos utilizando modelos de IA de última geração. **_Nível de sofisticação: Altíssimo_** 🌌
+- 🎨 **[Front End para Stable Diffusion - Imagem para Vídeo](https://github.com/chaos4455/Img2vid-Br-Front-End)**  
+  Interface sofisticada para conversão de imagens em vídeos utilizando modelos de IA de última geração. **_Nível de sofisticação: Altíssimo_** 🌌
 
 ---
 
 ### 🧠 **Projetos de Inteligência Artificial e Machine Learning**
 
-- 🤖 **[Gerador de Manuais com Google Gemini e Python](https://github.com/chaos4455/ai-it-help)**
-  - Projeto de geração automatizada de manuais técnicos utilizando IA.
+- 🤖 **[Gerador de Manuais com Google Gemini e Python](https://github.com/chaos4455/ai-it-help)**  
+  Projeto de geração automatizada de manuais técnicos utilizando IA.
 
-- 📉 **[Conversor de PDF para Reduzir Tamanho](https://github.com/chaos4455/python-pdf-converter)**
-  - Ferramenta para otimização de arquivos PDF, reduzindo seu tamanho.
-
-- 🔗 **[Infraestrutura e Projetos de Automação](https://github.com/chaos4455/Projetos)**
-  - Diversos projetos voltados para infraestrutura e automação.
-
-- 🔍 **[Conhecimento - Compilados de Estudos de 2022](https://github.com/chaos4455/Estudos-2022)**
-  - Repositório de estudos e aprendizados mais recentes.
+- 📉 **[Conversor de PDF para Reduzir Tamanho](https://github.com/chaos4455/python-pdf-converter)**  
+  Ferramenta para otimização de arquivos PDF, reduzindo seu tamanho.
 
 ---
 
 ### ⚙️ **Projetos DevOps e Infraestrutura**
 
-- 🛠️ **[DevOps com PowerShell (2018)](https://github.com/chaos4455/Devops-Powershell)**
-  - Coleção de scripts e automações DevOps utilizando PowerShell.
+- 🛠️ **[DevOps com PowerShell (2018)](https://github.com/chaos4455/Devops-Powershell)**  
+  Coleção de scripts e automações DevOps utilizando PowerShell.
 
-- 🐋 **[Docker Commandlets (2018)](https://github.com/chaos4455/DockerCommandlets)**
-  - Scripts de comando e automações iniciais utilizando Docker.
+- 🐋 **[Docker Commandlets (2018)](https://github.com/chaos4455/DockerCommandlets)**  
+  Scripts de comando e automações iniciais utilizando Docker.
 
 ---
 
 ### 📜 **Projetos Mais Antigos**
 
-- 🧬 **[Troca de Rosto com Python (2019)](https://github.com/chaos4455/TrocaRosto)**
-  - Experimento inicial com técnicas de manipulação de imagem utilizando IA.
+- 🧬 **[Troca de Rosto com Python (2019)](https://github.com/chaos4455/TrocaRosto)**  
+  Experimento inicial com técnicas de manipulação de imagem utilizando IA.
 
-- 📚 **[Conhecimento - Compilado de Estudos (2018)](https://github.com/chaos4455/Conhecimento)**
-  - Repositório de estudos e conhecimento acumulado ao longo dos anos.
+- 📚 **[Conhecimento - Compilado de Estudos (2018)](https://github.com/chaos4455/Conhecimento)**  
+  Repositório de estudos e conhecimento acumulado ao longo dos anos.
 
-- 🗄️ **[Criptografia de Arquivos com Python (2018)](https://github.com/chaos4455/Py-Crypt-Files)**
-  - Projeto inicial de criptografia para proteção de arquivos.
+- 🗄️ **[Criptografia de Arquivos com Python (2018)](https://github.com/chaos4455/Py-Crypt-Files)**  
+  Projeto inicial de criptografia para proteção de arquivos.
 
----
+- 🔗 **[Infraestrutura e Projetos de Automação](https://github.com/chaos4455/Projetos)**  
+  Diversos projetos voltados para infraestrutura e automação.
 
-### 📄 **Currículo e Certificações**
-
-- 🧑‍💻 **[Currículo Completo e Certificações](https://github.com/chaos4455/CV)**
-  - Lista completa das empresas, posições e tecnologias com as quais trabalhei.
-
-- 🎓 **[Certificações e Experiências em DevOps](https://github.com/chaos4455/Certifica-es)**
-  - Registro das certificações e qualificações obtidas ao longo da carreira.
+- 🔍 **[Conhecimento - Compilados de Estudos de 2022](https://github.com/chaos4455/Estudos-2022)**  
+  Repositório de estudos e aprendizados mais recentes.
 
 ---
 
-🌐 **Explore mais dos meus projetos no GitHub e fique à vontade para contribuir ou dar uma estrela!** ⭐
+### 📄 **Currículo e conhecimentos**
 
+- 🧑‍💻 **[Currículo Completo e Certificações](https://github.com/chaos4455/CV)**  
+  Lista completa das empresas, posições e tecnologias com as quais trabalhei.
 
+- 🎓 **[Certificações e Experiências em DevOps](https://github.com/chaos4455/Certifica-es)**  
+  Registro das certificações e qualificações obtidas ao longo da carreira.
+
+---
 
 ## 🧰 **Tecnologias Utilizadas** 🛠️
 
