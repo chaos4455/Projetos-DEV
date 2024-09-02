@@ -10,7 +10,7 @@ Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartil
 
 ---
 
-## 📚 eBooks Publicados por Elias Andrade
+## 📚 eBooks Publicados por mim sobre apis restful com python e dot net.
 
 Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desenvolvimento de APIs com .NET Core e Python Flask. Cada livro é um guia prático e completo, perfeito para desenvolvedores de todos os níveis!
 
