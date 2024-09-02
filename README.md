@@ -10,6 +10,47 @@ Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartil
 
 ---
 
+## 📚 eBooks Publicados por Elias Andrade
+
+Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desenvolvimento de APIs com .NET Core e Python Flask. Cada livro é um guia prático e completo, perfeito para desenvolvedores de todos os níveis!
+
+---
+
+### **1. [Como criar e aprender a Construir APIs RESTful com .NET Core - Um guia de abordagem do teórico ao prático](https://www.amazon.com.br/Como-criar-aprender-Construir-RESTful-ebook/dp/B0D2KTN371)**
+
+<img src="https://m.media-amazon.com/images/I/41YSWReWaXL._SX379_BO1,204,203,200_.jpg" alt="Como criar e aprender a Construir APIs RESTful com .NET Core" width="200">
+
+🔍 **Descrição:** Aprenda a construir APIs RESTful robustas e escaláveis com .NET Core! Este eBook oferece uma abordagem prática, indo do básico ao avançado, cobrindo desde os fundamentos até a implementação de autenticação, segurança, e melhores práticas.
+
+📖 **Conteúdo:**
+- Introdução aos conceitos de RESTful APIs.
+- Estrutura e desenvolvimento com .NET Core.
+- Autenticação e autorização com JWT.
+- Testes e validação de APIs.
+- Melhores práticas de desenvolvimento.
+
+---
+
+### **2. [Como construir APIs REST com Python Flask e JWT - Um guia do básico ao avançado](https://www.amazon.com.br/Como-construir-APIs-python-flask-ebook/dp/B0D58RM994)**
+
+<img src="https://m.media-amazon.com/images/I/51znZ6yZ1sL._SX379_BO1,204,203,200_.jpg" alt="Como construir APIs REST com Python Flask e JWT" width="200">
+
+🔍 **Descrição:** Um guia completo para desenvolvedores que desejam criar APIs RESTful eficientes e seguras usando Python Flask. Este eBook abrange desde a configuração básica do Flask até a implementação de autenticação com JWT, além de abordar técnicas avançadas para otimização e segurança.
+
+📖 **Conteúdo:**
+- Introdução ao Flask e desenvolvimento de APIs RESTful.
+- Autenticação e autorização com JWT.
+- Integração com bancos de dados e ORMs.
+- Implementação de caching e otimização de desempenho.
+- Segurança e práticas recomendadas para APIs.
+
+---
+
+🎉 **Adquira agora e comece a aprimorar suas habilidades de desenvolvimento de APIs!** 🚀
+
+🔗 [Visite a minha página de autor na Amazon](https://www.amazon.com.br/s?k=Elias+Andrade&ref=nb_sb_noss)
+
+
 ## 📋 **Sobre o Repositório**
 
 Este repositório contém uma coleção de projetos criados para demonstrar minhas habilidades e experiências em diversas tecnologias, abordando desde o desenvolvimento de APIs robustas até soluções avançadas de Machine Learning e automação DevOps. Cada projeto inclui um README detalhado com instruções de instalação, uso e contribuições.
