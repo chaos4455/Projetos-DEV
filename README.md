@@ -193,7 +193,6 @@ Explore a minha coleção de projetos no GitHub, abrangendo automação de infra
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  
 ![Flask](https://img.shields.io/badge/Flask-2.0-red)  
-![Django](https://img.shields.io/badge/Django-3.2-green)  
 ![Node.js](https://img.shields.io/badge/Node.js-16.0-brightgreen)  
 ![HTML](https://img.shields.io/badge/HTML-5-orange)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue)  
