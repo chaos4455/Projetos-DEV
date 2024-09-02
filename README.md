@@ -44,6 +44,79 @@ Explore a minha coleção de projetos no GitHub, abrangendo automação de infra
 - 📚 **[Automação de Documentação com IA Generativa](https://github.com/chaos4455/AI-Infra-Automation-Toolbox)**  
   Automação de processos de documentação, manuais e procedimentos utilizando IA.
 
+### 📊 **Projetos e Estudos de 2024 a 2028**
+
+- 📚 **[Estudos e Pesquisas de 2024 a 2028](https://github.com/evolucaoit/Estudos_2024_2028)**  
+  Documentação contínua dos meus aprendizados e projetos pessoais, com foco em evolução tecnológica e novas práticas, seguindo o mesmo estilo desde 2010.
+
+---
+
+### 🛠️ **Projetos Freelance e Automação**
+
+- 📧 **[AtendeMail - Plataforma SaaS de Automação de E-mail](https://github.com/evolucaoit/AtendeMail)**  
+  Projeto completo de uma plataforma SaaS para automação de e-mails, desenvolvida do zero até a implantação com arquitetura de micro serviços.
+
+- 🖥️ **[PyGitHubRipper - Automação para Ripagem de Repositórios](https://github.com/evolucaoit/PyGitHubRipper)**  
+  Aplicação em Streamlit para automatização de ripagem de repositórios GitHub, facilitando a gestão de conteúdo.
+
+- 📦 **[Gerador de Dados Sintéticos com Faker para Treinamento de IA](https://github.com/evolucaoit/Gerador_planilha_estoque_faker)**  
+  Ferramenta de geração de dados sintéticos para treinamento de modelos de inteligência artificial.
+
+- 📑 **[Conversor de XLS para JSON e YAML com Streamlit](https://github.com/evolucaoit/Streamlit_Sheet_Yaml-Json_Converter)**  
+  Aplicativo Streamlit que converte arquivos XLS para formatos JSON e YAML de forma eficiente.
+
+- 🖼️ **[Streamlit Image Enhance and Scale](https://github.com/evolucaoit/Streamlit_image_upscaler)**  
+  Projeto para melhorar e redimensionar imagens utilizando Streamlit.
+
+- 🧩 **[Streamlit Apps Console Menu Launcher](https://github.com/evolucaoit/PIPE_streamlit_launcher)**  
+  Launcher de menu de console para aplicativos desenvolvidos em Streamlit.
+
+- 🖥️ **[Organizador de Arquivos para Windows](https://github.com/evolucaoit/PY_File_Organizer)**  
+  Ferramenta para classificar e organizar arquivos em múltiplas unidades de armazenamento, gerenciando mais de 30 tipos de extensões.
+
+---
+
+### 🧬 **Exemplos de Micro Serviços e APIs RESTful**
+
+- 📡 **[Transferência de Imagem com Flask e JWT](https://github.com/evolucaoit/Flask_API_IMG_Transfer)**  
+  Exemplo de micro serviço de transferência de imagem utilizando Flask, com autenticação JWT e API RESTful.
+
+- 🔑 **[Página de Login Full Stack com Flask, JWT e Tailwind CSS](https://github.com/evolucaoit/JWT_HTML5_Login_page)**  
+  Exemplo de componente full stack para tela de login, utilizando Flask, JWT, Tailwind CSS, JavaScript e HTML5.
+
+- 🔄 **[API RESTful para Coleta e Exportação de Dados](https://github.com/evolucaoit/flask_JWT-API-Data_Exporter)**  
+  API que coleta dados de fontes diversas e exporta para formatos XLS, TXT, JSON, YAML e XML.
+
+- 🧮 **[Micro Serviço para Geração de Dados e Micro Transações com Flask](https://github.com/evolucaoit/Server_Client_Flask-API_Resltime)**  
+  Exemplo de micro serviço utilizando Flask para geração de dados, transações em tempo real e autenticação JWT.
+
+- 📊 **[Exemplo de Data Dashboard com Flask, Python e Dash](https://github.com/evolucaoit/Demo_Dash_panel_Flask_SRV_API)**  
+  Projeto de data dashboards utilizando Flask, Dash e Python.
+
+---
+
+### 🌐 **Projetos com .NET e ASP.NET**
+
+- 🔧 **[Exemplos de APIs RESTful e Micro Serviços com .NET](https://github.com/evolucaoit/DotNet_projects)**  
+  Projetos que demonstram a criação de APIs RESTful e micro serviços utilizando ASP.NET e .NET Core.
+
+---
+
+### 🎨 **Projetos Pessoais e Hobbies**
+
+- 🌟 **[Repositório Pessoal - Elias Andrade](https://github.com/evolucaoit/Personal_Hobbyes)**  
+  Projetos pessoais e hobbies, explorando interesses diversos fora do ambiente profissional, incluindo insights sobre tempo livre e atividades pessoais.
+
+---
+
+### 💸 **Outros Projetos Relevantes**
+
+- 💳 **[PIXHub - Sistema de Confirmação de Pagamento via PIX](https://github.com/evolucaoit/PIXHUB_payment_confirmation_system)**  
+  Sistema completo de confirmação de pagamento QR Code via PIX, integrado com a API do Mercado Pago.
+
+- 📂 **[Conversor e Exportador de Dados](https://github.com/evolucaoit/Streamlit_Sheet_Yaml-Json_Converter)**  
+  Conversão de arquivos XLS para formatos JSON e YAML utilizando Streamlit.
+  
 ---
 
 ### 🔧 **Ferramentas e Scripts de Automação**
