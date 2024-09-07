@@ -22,6 +22,30 @@ Como Arquiteto de Soluções e Desenvolvedor Backend Python, busco aplicar minha
 
 Explore a minha coleção de projetos no GitHub, abrangendo automação de infraestrutura, inteligência artificial, ferramentas DevOps, desenvolvimento backend e muito mais. Abaixo, os projetos estão organizados do mais recente ao mais antigo.
 
+## Projetos Pessoais e Contribuições 🌟
+
+🔹 **Gerador de Mensagens de Aviso de Demissão e Dispensa**
+- **Descrição:** Desenvolvimento de um script Python para geração automática de mensagens formais de demissão e dispensa de funcionários.
+- **Tecnologias Utilizadas:** Python, SQLite, Pandas, Streamlit.
+- **Detalhes Adicionais:**
+  - Criação de interface gráfica com Streamlit para inserção de dados e geração de documentos PDF personalizados.
+  - Implementação de lógica de preenchimento automático com base em templates predefinidos.
+
+🔹 **Dashboard de Gerenciamento de Manutenção Industrial**
+- **Descrição:** Desenvolvimento de um dashboard interativo para gestão e controle de manutenção industrial.
+- **Tecnologias Utilizadas:** Python, Pandas, Plotly, Dash.
+- **Detalhes Adicionais:**
+  - Integração de gráficos dinâmicos com Plotly para visualização de dados de manutenção preventiva e corretiva.
+  - Implementação de filtros e drill-downs para análise detalhada de indicadores de desempenho.
+
+🔹 **Aplicativo Web para Controle de Inventário em Farmácia de Manipulação**
+- **Descrição:** Desenvolvimento de um aplicativo web para controle de estoque e prevenção de perdas em farmácia de manipulação.
+- **Tecnologias Utilizadas:** Python, Streamlit, SQLite, QR Code.
+- **Detalhes Adicionais:**
+  - Implementação de QR Codes para identificação de produtos e atualização de estoque em tempo real.
+  - Desenvolvimento de módulos de entrada, consulta, atualização, exclusão e geração de relatórios.
+
+
 ---
 
 ### 🏆 **Projetos Mais Relevantes**
