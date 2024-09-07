@@ -22,7 +22,7 @@ Como Arquiteto de Soluções e Desenvolvedor Backend Python, busco aplicar minha
 
 Explore a minha coleção de projetos no GitHub, abrangendo automação de infraestrutura, inteligência artificial, ferramentas DevOps, desenvolvimento backend e muito mais. Abaixo, os projetos estão organizados do mais recente ao mais antigo.
 
-## Projetos Pessoais e Contribuições 🌟
+## Projetos  recentes 🌟
 
 🔹 **Gerador de Mensagens de Aviso de Demissão e Dispensa**
 - **Descrição:** Desenvolvimento de um script Python para geração automática de mensagens formais de demissão e dispensa de funcionários.
