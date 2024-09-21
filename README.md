@@ -1,3 +1,21 @@
+# Elias dos Santos de Andrade 
+
+### 🔄 Em Busca de Novos Desafios
+
+Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
+
+![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
+
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (44) 98765-4321
+- 📧 **E-mail:** elias.andrade@email.com
+- 🌐 **LinkedIn:** [linkedin.com/in/eliasandrade](https://www.linkedin.com/in/itilmgf)
+
+## 💰 Pretensão Salarial
+R$ 4.100,00 - R$ 4.500,00 CLT + benefícios
+
 # 🏗️ **Portfólio de projetos de arquitetura de sistemas e micro serviços-BE/DEV** - Desenvolvimento Backend, Frontend, Full Stack e IA 🐍
 
 Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartilhar projetos de desenvolvimento em Python, abrangendo áreas como Backend, Frontend, Full Stack, Inteligência Artificial (IA), Machine Learning (ML), Modelos de Linguagem (LLM), DevOps, e muito mais. 🚀
