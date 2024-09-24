@@ -228,62 +228,170 @@ Explore a minha coleção de projetos no GitHub, abrangendo automação de infra
   Registro das certificações e qualificações obtidas ao longo da carreira.
 
 ---
+# 🚀 **Projeto Full Stack com Tecnologias Modernas** 💻
 
 ## 🧰 **Tecnologias Utilizadas** 🛠️
 
 ### **Backend & Frontend**
 
+#### **Python**  
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Flask](https://img.shields.io/badge/Flask-2.0-red)  
+![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-green)  
+
+#### **Node.js**  
 ![Node.js](https://img.shields.io/badge/Node.js-16.0-brightgreen)  
+![Nível](https://img.shields.io/badge/Nível-Básico-yellow)  
+
+#### **.NET**  
+![.NET](https://img.shields.io/badge/.NET-5.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Básico-yellow)  
+
+#### **HTML/CSS/JavaScript**  
 ![HTML](https://img.shields.io/badge/HTML-5-orange)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v3.0-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+
+---
 
 ### **Machine Learning & IA**
 
+#### **Bibliotecas de Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.11-purple)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Keras](https://img.shields.io/badge/Keras-2.4-red)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+#### **Modelos e Ferramentas**  
 ![YOLO](https://img.shields.io/badge/YOLO-v5-blueviolet)  
 ![MobileNet](https://img.shields.io/badge/MobileNet-v2.0-blue)  
 ![LLaMA](https://img.shields.io/badge/LLaMA-v3.0-green)  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-4.0-blue)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-4.0-blue)  
+
+---
 
 ### **Visão Computacional**
 
+#### **Bibliotecas de Visão Computacional**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-green)  
-![PIL](https://img.shields.io/badge/PIL-Pillow-yellow)
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![PIL](https://img.shields.io/badge/PIL-Pillow-yellow)  
+
+---
 
 ### **DevOps & Infraestrutura**
 
+#### **Containerização e Orquestração**  
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1.29-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![MicroK8s](https://img.shields.io/badge/MicroK8s-1.21-brightblue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.21-lightblue)  
-![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI/CD-red)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+#### **CI/CD e Integração**  
+![GitLab](https://img.shields.io/badge/GitLab-15.0-red)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI/CD-orange)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-v2.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Terraform](https://img.shields.io/badge/Terraform-v1.0.0-purple)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Ansible](https://img.shields.io/badge/Ansible-2.10-red)  
-![Vagrant](https://img.shields.io/badge/Vagrant-2.2-blue)
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Vagrant](https://img.shields.io/badge/Vagrant-2.2-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+#### **Armazenamento e Virtualização**  
+![MinIO](https://img.shields.io/badge/MinIO-S3_Compatible-yellow)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-ML-Blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-7.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Hyper-V](https://img.shields.io/badge/Hyper-V-Server_2022-green)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+---
 
 ### **Automação e Integração**
 
+#### **APIs e Integração**  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.8.5-lightgrey)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![RESTful API](https://img.shields.io/badge/API-RESTful-orange)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-1.0-pink)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![JWT](https://img.shields.io/badge/JWT-JSON_Web_Tokens-yellowgreen)  
-![Mercado Pago API](https://img.shields.io/badge/Mercado_Pago-API-yellow)
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![OAuth](https://img.shields.io/badge/OAuth-2.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Mercado Pago API](https://img.shields.io/badge/Mercado_Pago-API-yellow)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 
-### **Bancos de Dados**
+---
 
+### **Bancos de Dados & Bancos Vetoriais**
+
+#### **Bancos de Dados Relacionais e Não Relacionais**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-green)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.0-lightblue)  
-![SQLite](https://img.shields.io/badge/SQLite-3.36-orange)
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![SQLite](https://img.shields.io/badge/SQLite-3.36-orange)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-purple)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+---
 
 ### **Visualização de Dados**
 
+#### **Bibliotecas de Visualização**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-lightgrey)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![Plotly](https://img.shields.io/badge/Plotly-5.1.0-purple)  
-![Dash](https://img.shields.io/badge/Dash-2.0.0-green)
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Dash](https://img.shields.io/badge/Dash-2.0.0-green)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+---
+
+### **Conhecimentos e Habilidades Adicionais**
+
+- **Manipulação de Arquivos**: JSON, YAML, TXT, XLS, PDF, etc. 🗂️  
+- **Processamento de Imagens e Vídeos**: Ferramentas de edição e conversão. 🎥  
+- **Classificação de Arquivos**: Métodos de organização e arquivamento. 📁  
+- **Paralelismo e Multithreading**: Programação concorrente para otimização. 🔄  
+- **Async e Fila de Processos**: Manipulação assíncrona e gerenciamento de filas. 📊  
+- **Criptografia**: Implementação de algoritmos para segurança de dados. 🔐  
+
+---
+
+### **Implementação Prática**
+
+Realizo o **deploy de ambientes de aplicações**, incluindo **microserviços** em **cloud**, **on-premises**, **nativos**, **containerizados** e **virtualizados**. 📦  
+Experiência com **APIs** do **Telegram**, **WhatsApp**, **email**, e **prototipagem** para soluções inovadoras. 💬  
+
+---
+
+## 📜 **Disclaimer**
+
+- **Node.js** e **.NET**: Conhecimento básico em desenvolvimento de APIs e deploy de aplicações em rotinas de CI/CD. 🔧
+- **Python**: Habilidades avançadas em desenvolvimento de scripts, manipulação de dados e integração com diversas bibliotecas e frameworks. 📊
+
+---
+
 
 ---
 
