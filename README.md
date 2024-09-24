@@ -316,8 +316,6 @@ Explore a minha coleção de projetos no GitHub, abrangendo automação de infra
 ![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-7.0-blue)  
 ![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
-![Hyper-V](https://img.shields.io/badge/Hyper-V-Server_2022-green)  
-![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
 
 ---
 
