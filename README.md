@@ -27,6 +27,12 @@ Bem-vindo ao repositório **Projetos-DEV**! Este é o meu espaço para compartil
 ![GitHub](https://img.shields.io/badge/GitHub-chaos4455-lightgrey)
 
 
+
+## 📈 **Estatísticas no GitHub**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+
 ## 📋 **Sobre o Repositório**
 
 Este repositório contém uma coleção de projetos criados para demonstrar minhas habilidades e experiências em diversas tecnologias, abordando desde o desenvolvimento de APIs robustas até soluções avançadas de Machine Learning e automação DevOps. Cada projeto inclui um README detalhado com instruções de instalação, uso e contribuições.
