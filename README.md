@@ -452,7 +452,25 @@ Explore os meus eBooks disponíveis na Amazon e amplie seu conhecimento em desen
 
 Para clonar o repositório e começar a explorar:
 
-```bash
 git clone https://github.com/chaos4455/Projetos-DEV.git
 cd Projetos-DEV
 pip install -r requirements.txt
+
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+### "Não há conhecimento que não seja poder." 💎🦂
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
+
